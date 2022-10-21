@@ -1,16 +1,16 @@
 {
-"name": "databet789",
-"theme": "databet789",
-"version": "7.8.3",
-"description": "databet789 ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง คนเล่นเยอะ ให้เครดิตฟรี",
-"keywords": [
-"databet789",
-"databet789 เครดิตฟรี",
-"databet789 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/databet789",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "databet789",
+  "theme": "databet789",
+  "version": "7.9.0",
+  "description": "databet789 ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง คนเล่นเยอะ ให้เครดิตฟรี",
+  "keywords": [
+    "databet789",
+    "databet789 เครดิตฟรี",
+    "databet789 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/databet789",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
